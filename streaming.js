@@ -1,11 +1,3 @@
-/*
- * # Setting your twitter account
- * Edit config.json
- *
- * # Convert twitter screen_name to user_id Shell Script
- * $ for a in $(cat twitter_accounts); do echo $(curl --silent "http://www.idfromuser.com/getID.php?username=$a") >> twitter_user_ids; done
- */
-
 var https = require('https'),
 	fs = require('fs');
 
