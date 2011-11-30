@@ -8,7 +8,7 @@
 ## Setup Twitter Accounts
 - add screen_name to file twitter_accounts
 
-## Setup Twitter User IDs
+## Update Twitter User IDs
 	./update_twitter_user_ids.sh
 
 ## Execute
